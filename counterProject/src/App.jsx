@@ -9,7 +9,11 @@ function App() {
 
   const addValue = () => {
     if(counter<20){
-      setCounter(counter + 1)
+      console.log(counter)
+      setCounter(counter+1)
+      console.log(counter)
+      // setCounter(prevCounter=>prevCounter+1)
+      // console.log(counter)
     }  
   }
 
