@@ -1,0 +1,30 @@
+.mainPasswordBox {
+  background-color: rgb(105, 97, 97);
+  width: 30rem;
+  height: 7rem;
+  border-color: black;
+  border-radius: 15px;
+  color: rgb(229, 109, 11);
+  text-align: center;
+  margin: 0 auto;
+
+}
+
+.inputPasswordBox {
+  width: 18rem;
+  height: 3rem;
+  background-color: white;
+  text-align: center;
+  margin: 1em;
+  border-color: black;
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3em;
+  font-weight: 600;
+}
+.inputbelow{
+  margin: 0 auto;
+}
